@@ -1,13 +1,11 @@
-aiohttp
 anytree
 appdirs
 aria2p
 attrdict
 beautifulsoup4
-bencoding
 cfscrape
 feedparser
-gc-python-utils
+flask
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
@@ -24,7 +22,6 @@ python-magic
 python-telegram-bot
 qbittorrent-api
 requests
-speedtest-cli
 six
 telegraph
 tenacity
